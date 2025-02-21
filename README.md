@@ -9,3 +9,9 @@
 - **data structure [lists, dictionary, Tuple, sets]**
 - **files input/output**
 - **random numbers**
+
+## statistics
+
+- **Measures of Central Tendency**
+- **Measures of Dispersion or Variability**
+- **Quartiles**
