@@ -18,7 +18,6 @@
 
 # Excel Basics
 
-## Table of Contents
 - **Learn navigation**
 - **Basic formulas**
 - **Data entry controls to ensure data quality**
