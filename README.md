@@ -10,8 +10,16 @@
 - **files input/output**
 - **random numbers**
 
-## statistics
+## Statistics
 
 - **Measures of Central Tendency**
 - **Measures of Dispersion or Variability**
 - **Quartiles**
+
+# Excel Basics
+
+- **Learn navigation**
+- **Basic formulas**
+- **Data entry controls to ensure data quality**
+- **Relative vs Absolute Cell**
+- **Simple charts in Excel**
